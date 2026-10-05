@@ -21,36 +21,48 @@
     "Name": "Vida Louca",
     "Artist": "MC Poze do Rodo",
     "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/VidaLouca.mp3",
-    "ImageUrl": "https://i.scdn.co/image/ab67616d00004851863762d02b8eabaaec806197"
+    "ImageUrl": "https://i.scdn.co/image/ab67616d00004851863762d02b8eabaaec806197",
   },
   {
     "Name": "DEUS , POR FAVOR",
     "Artist": "MC Kevin, MC IG, MC PH",
-    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/DEUS,PORFAVOR.mp3"
+    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/DEUS,PORFAVOR.mp3",
+    "ImageUrl": "https://i.scdn.co/image/ab67616d00004851302a546f5c28d02ef985fd86"
   },
   {
     "Name": "PLug",
     "Artist": "Gordao",
-    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/plug.mp3"
+    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/plug.mp3",
+    "ImageUrl": "https://i.scdn.co/image/ab67616d00004851302a546f5c28d02ef985fd86"
   },
   {
     "Name": "Bala Love",
     "Artist": "Gordao",
-    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/Balalove.mp3"
+    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/Balalove.mp3",
+    "ImageUrl": "https://i.scdn.co/image/ab67616d00004851302a546f5c28d02ef985fd86"
   },
   {
     "Name": "TZ da Coronel",
     "Artist": "Gordao",
-    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/coronel.mp3"
+    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/coronel.mp3",
+    "ImageUrl": "https://i.scdn.co/image/ab67616d00004851302a546f5c28d02ef985fd86"
   },
   {
     "Name": "Tipo Nino Abravanel",
     "Artist": "Gordao",
-    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/tiponino.mp3"
+    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/tiponino.mp3",
+    "ImageUrl": "https://i.scdn.co/image/ab67616d00004851302a546f5c28d02ef985fd86"
   },
   {
     "Name": "SorrisonoRosto",
     "Artist": "Gordao",
-    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/SorrisonoRosto.mp3"
+    "Url": "https://raw.githubusercontent.com/fidola12/spotify-by-gordao/main/SorrisonoRosto.mp3",
+    "ImageUrl": "https://i.scdn.co/image/ab67616d00004851302a546f5c28d02ef985fd86"
+  },
+  {
+    "Name": "Tira Esse Plug",
+    "Artist": "Prod. Yung Matzu",
+    "Url": "https://audio-fa.scdn.co/audio/36737eed44da8a967fb5697823caea08a998dd79?1791285075_HTIxFkOPRbo9YNWgIkZ-zEeSaupX1-aRTcnXNcgBKNU=",
+    "ImageUrl": "https://i.scdn.co/image/ab67616d00001e027d40efd271ccea24b3236781"
   }
 ]
