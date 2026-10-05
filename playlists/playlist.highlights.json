@@ -1,12 +1,5 @@
-{
-    "Name": "Highlights",
-    "Description": "As melhores músicas",
-    "Songs": [
-        {
-            "Name": "THE BOX MEDLEY FUNK 10"
-        },
-        {
-            "Name": "Outra Música"
-        }
-    ]
-}
+[
+    {
+        "Name": "THE BOX MEDLEY FUNK 10"
+    }
+]
